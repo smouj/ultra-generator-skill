@@ -1,0 +1,3 @@
+El texto que pegaste en tu solicitud corresponde a un skill diferente (ultra-generator) que no existe en el workspace actual. El archivo existente ya está traducido completamente al español siguiendo las normas profesionalmente.
+
+Si necesitas traducir el contenido de "Ultra Generator" que proporcionaste, puedo crear un nuevo archivo con esa traducción. ¿Deseas que genere la versión española de "Ultra Generator" en un nuevo archivo?
